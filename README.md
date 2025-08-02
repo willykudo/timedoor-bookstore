@@ -7,7 +7,7 @@ Sebuah aplikasi backend sederhana berbasis Laravel untuk manajemen buku, penulis
 ## Fitur
 
 - CRUD lengkap untuk **Book**, **Author**, dan **Category**
-- Kemampuan **seeding data massal** (hingga 100.000 records)
+- Kemampuan **seeding data massal** (hingga 500.000 records)
 - Struktur kode bersih, rapi, dan mudah dikembangkan
 - Dibangun menggunakan **Laravel 10+**
 
