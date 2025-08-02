@@ -26,7 +26,7 @@ Sebuah aplikasi backend sederhana berbasis Laravel untuk manajemen buku, penulis
 
 ```bash
 # 1. Clone project
-git clone https://github.com/your-username/timedoor-bookstore.git
+git clone https://github.com/willykudo/timedoor-bookstore.git
 cd timedoor-bookstore
 
 # 2. Install dependencies Laravel
