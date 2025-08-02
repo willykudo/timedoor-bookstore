@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Timedoor Bookstore Backend
 
 Sebuah aplikasi backend sederhana berbasis Laravel untuk manajemen buku, penulis, dan kategori. Cocok untuk pembelajaran atau dasar pengembangan sistem katalog buku.
@@ -58,3 +59,6 @@ resources/views/ — (Jika menggunakan Blade untuk tampilan frontend)
 
 #Catatan
 Seeder disesuaikan agar tidak membebani perangkat. Uji coba bisa dilakukan dengan skala kecil terlebih dahulu.
+=======
+# timedoor-bookstore
+>>>>>>> cd1983d8ad0bfcd7ec32d3297293d2bd3a9ad988
