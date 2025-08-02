@@ -54,7 +54,7 @@ routes/web.php — File routing utama
 app/Http/Controllers/ — Berisi controller untuk logic CRUD
 app/Models/ — Model data (Book, Author, Category)
 database/seeders/ — Seeder untuk pengisian data awal
-resources/views/ — (Jika menggunakan Blade untuk tampilan frontend)
+resources/views/ — (Blade untuk tampilan frontend)
 
 #Catatan
 Seeder disesuaikan agar tidak membebani perangkat. Uji coba bisa dilakukan dengan skala kecil terlebih dahulu.
