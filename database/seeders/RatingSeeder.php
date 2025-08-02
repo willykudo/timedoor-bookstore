@@ -16,6 +16,6 @@ class RatingSeeder extends Seeder
     public function run(): void
     {
         // sesuaikan data yang diisi sesuai kemampuan perangkat
-        FactorySeederHelper::seedInBatches(Rating::factory(), 100000, 1000, Rating::class);
+        FactorySeederHelper::seedInBatches(Rating::factory(), 500000, 1000, Rating::class);
     }
 }
