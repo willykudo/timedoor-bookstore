@@ -14,7 +14,7 @@ class BookSeeder extends Seeder
      */
     public function run(): void
     {
-        // sesuaikan data yang diisi sesuai kemampuan perangkat
-        FactorySeederHelper::seedInBatches(Book::factory(), 100000, 1000, Book::class);
+        // sesuaikan data yang diisi sesuai kemampuan perangkat(saran 5000 per batch) 
+        FactorySeederHelper::seedInBatches(Book::factory(), 100000, 5000, Book::class);
     }
 }
